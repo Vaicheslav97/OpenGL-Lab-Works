@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+D:\D\диск с\Desktop\ПГТУ\бакалаврат\4 семестр\Компьютерная графика\2 семестр\LR10\LR7\ConsoleApplication3\ConsoleApplication1\ConsoleApplication1.cpp(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+  stdafx.cpp
+  Создание кода...
+  ConsoleApplication1.vcxproj -> D:\D\диск с\Desktop\ПГТУ\бакалаврат\4 семестр\Компьютерная графика\2 семестр\LR10\LR7\ConsoleApplication3\Debug\ConsoleApplication1.exe
